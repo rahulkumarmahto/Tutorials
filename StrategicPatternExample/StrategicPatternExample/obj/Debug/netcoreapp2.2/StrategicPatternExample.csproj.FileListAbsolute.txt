@@ -1,0 +1,11 @@
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\bin\Debug\netcoreapp2.2\StrategicPatternExample.deps.json
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\bin\Debug\netcoreapp2.2\StrategicPatternExample.runtimeconfig.json
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\bin\Debug\netcoreapp2.2\StrategicPatternExample.runtimeconfig.dev.json
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\bin\Debug\netcoreapp2.2\StrategicPatternExample.dll
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\bin\Debug\netcoreapp2.2\StrategicPatternExample.pdb
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\obj\Debug\netcoreapp2.2\StrategicPatternExample.csprojAssemblyReference.cache
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\obj\Debug\netcoreapp2.2\StrategicPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\obj\Debug\netcoreapp2.2\StrategicPatternExample.AssemblyInfoInputs.cache
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\obj\Debug\netcoreapp2.2\StrategicPatternExample.AssemblyInfo.cs
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\obj\Debug\netcoreapp2.2\StrategicPatternExample.dll
+C:\Users\Rahul Kumar\source\repos\StrategicPatternExample\StrategicPatternExample\obj\Debug\netcoreapp2.2\StrategicPatternExample.pdb
